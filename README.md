@@ -1,4 +1,4 @@
-﻿# Analise_banco_de_dados_imobiliario_de_Boston
+﻿# Analise banco de dados imobiliario de Boston
 
 # Descrição do Projeto:
 Este projeto tem como objetivo analisar e modelar dados imobiliários de Boston, usando várias técnicas de ciência de dados e aprendizado de máquina. O objetivo final é prever o valor mediano das casas ocupadas pelo proprietário em diferentes regiões de Boston.
