@@ -36,14 +36,22 @@ MEDV: Valor mediano das casas ocupadas pelo proprietário em US $ 1.000 (variáv
 
 # Ferramentas Utilizadas:
 Python
+
 Pandas
+
 Scikit-Learn
+
 Matplotlib
+
 Seaborn
 
 # Procedimentos:
 Análise Exploratória de Dados (EDA)
+
 Pré-processamento de Dados
+
 Modelagem de Aprendizado de Máquina
+
 Avaliação do Modelo
+
 Interpretação dos Resultados
