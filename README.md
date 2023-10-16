@@ -1,8 +1,8 @@
-# ﻿# Previsão de Renda de Clientes
+# ﻿ Previsão de Renda de Clientes
 
 
 # Descrição do Projeto:
-Este projeto visa prever a renda de clientes com base em variáveis sociodemográficas e econômicas. Utilizamos técnicas de regressão linear e análise de dados para entender quais fatores mais influenciam na renda de um indivíduo.
+Este projeto visa prever a renda de clientes com base em variáveis sociodemográficas e econômicas. Utilizei técnicas de regressão linear e análise de dados para entender quais fatores mais influenciam na renda de um indivíduo.
 
 # Características dos Dados:
 Os dados contêm várias variáveis independentes que abrangem aspectos socioeconômicos, tais como:
