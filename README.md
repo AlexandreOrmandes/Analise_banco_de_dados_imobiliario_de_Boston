@@ -1,4 +1,4 @@
-# ﻿ Previsão de Renda de Clientes
+# ﻿Previsão de Renda de Clientes
 
 
 # Descrição do Projeto:
@@ -7,22 +7,48 @@ Este projeto visa prever a renda de clientes com base em variáveis sociodemogr�
 # Características dos Dados:
 Os dados contêm várias variáveis independentes que abrangem aspectos socioeconômicos, tais como:
 
-Variavel	              Descrição
 
-data_ref	              Data de referência de coleta das variáveis
-index	                  Código de identificação do cliente
-sexo	                  Sexo do cliente
-posse_de_veiculo	      Indica se o cliente possui veículo
-posse_de_imovel	        Indica se o cliente possui imóvel
-qtd_filhos	            Quantidade de filhos do cliente
-tipo_renda	            Tipo de renda do cliente
-educacao	              Grau de instrução do cliente
-estado_civil	          Estado civil do cliente
-tipo_residencia	        Tipo de residência do cliente (própria, alugada etc)
-idade	                  Idade do cliente
-tempo_emprego	          Tempo no emprego atual
-qt_pessoas_residencia	  Quantidade de pessoas que moram na residência
-renda	                  Renda em reais
+data_ref	             
+Data de referência de coleta das variáveis
+
+index	                  
+Código de identificação do cliente
+
+sexo	                  
+Sexo do cliente
+
+posse_de_veiculo	      
+Indica se o cliente possui veículo
+
+posse_de_imovel	        
+Indica se o cliente possui imóvel
+
+qtd_filhos	            
+Quantidade de filhos do cliente
+
+tipo_renda	            
+Tipo de renda do cliente
+
+educacao	              
+Grau de instrução do cliente
+
+estado_civil	          
+Estado civil do cliente
+
+tipo_residencia	        
+Tipo de residência do cliente (própria, alugada etc)
+
+idade	                  
+Idade do cliente
+
+tempo_emprego	          
+Tempo no emprego atual
+
+qt_pessoas_residencia	  
+Quantidade de pessoas que moram na residência
+
+renda	                  
+Renda em reais
 
 
 # Ferramentas Utilizadas:
